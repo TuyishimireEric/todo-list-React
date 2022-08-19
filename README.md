@@ -16,7 +16,7 @@ To get a local copy of this exercice, Please follow these simple example steps.
 
 1. Clone this repository or download the Zip folder:
 
-**``git@github.com:TuyishimireEric/JavaScript-group-capstone.git``**
+**``git@github.com:TuyishimireEric/todo-list-react.git``**
 
 2. Navigate to the location of the folder in your machine:
 
@@ -30,7 +30,8 @@ Now you can go and play with it as you wish :smile:
 
 👤 Eric TuyishimireEric
 
-. Github: @TuyishimireEric
+- Github: @TuyishimireEric
+- E-mail: tuyishimireericc@gmail.com
 
 ## Show your support
 Give a ⭐️ if you like this project!
